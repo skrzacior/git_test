@@ -1,1 +1,1 @@
-This is Jakub's first project!
+This is Skrzacior's first project!
